@@ -3,7 +3,7 @@
 -- Add any additional keymaps here
 
 local command_keymappings = {
-
+  -- commit
   --- Hack Debug
   ["ToggleDebugUI"] = "<F1>",
   ["DebugStartOrContinue"] = "<F5>",
